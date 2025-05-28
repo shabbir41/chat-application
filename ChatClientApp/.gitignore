@@ -1,0 +1,48 @@
+# CMake build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.pro.user*
+*.qmake.stash
+*.autosave
+*.pro.user
+*.creator*
+*.qmlproject.user*
+
+# macOS system files
+.DS_Store
+
+# Generated .app or bundle
+*.app/
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# Object and binary files
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.dylib
+*.exe
+*.out
+
+# VS Code settings
+.vscode/
+
+# Backup or swap files
+*~
+*.swp
+*.bak
+
+# macdeployqt-generated folders
+*.dmg
+*.DS_Store
+
+
